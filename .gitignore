@@ -1,0 +1,63 @@
+## Archivos de compilación y temporales
+bin/
+obj/
+out/
+*.log
+
+## VS Code (si usas)
+.vscode/
+
+## Rider
+.idea/
+
+## Visual Studio (opcional)
+.vs/
+
+## Archivos de usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Archivos de publicación
+publish/
+*.dbmdl
+
+## Archivos de configuración local
+appsettings.*.json
+
+## Archivos del sistema
+*.DS_Store
+Thumbs.db
+
+## Archivos de paquetes
+*.nupkg
+*.snupkg
+*.nuspec
+
+# Auto-generados por NuGet y restaurables
+project.lock.json
+project.assets.json
+*.deps.json
+*.runtimeconfig.dev.json
+*.runtimeconfig.json
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+
+## Archivos de test (si usas cobertura o test results)
+TestResults/
+coverage/
+coverage*.json
+*.coverage
+*.coveragexml
+
+## Logs
+*.log
+logs/
+
+## Dotnet environment files
+.env
+*.env
